@@ -1,0 +1,65 @@
+{
+    "explorer.sortOrder": "type",
+    "editor.wordWrap": "off",
+    "[markdown]": {
+        "editor.wordWrap": "on",
+        "editor.quickSuggestions": true,
+        "editor.tabSize": 2
+    },
+    "[typescript]": {
+        "editor.tabSize": 2
+    },
+    "[typescriptreact]": {
+        "editor.tabSize": 2
+    },
+    "[javascript]": {
+        "editor.tabSize": 2
+    },
+    "[javascriptreact]": {
+        "editor.tabSize": 2
+    },
+    "workbench.editorAssociations": {
+        "*.ipynb": "jupyter-notebook"
+    },
+    "editor.detectIndentation": false,
+    "editor.suggestSelection": "first",
+    "vsintellicode.modify.editor.suggestSelection": "automaticallyOverrodeDefaultValue",
+    "vim.handleKeys": {
+        "<C-w>": false
+    },
+    "mssql.connections": [
+        {
+            "server": "DESKTOP-DRHD4C8",
+            "database": "",
+            "authenticationType": "Integrated",
+            "profileName": "oasis-local-test",
+            "password": ""
+        },
+        {
+            "server": "DESKTOP-DRHD4C8",
+            "database": "csds341_homework2",
+            "authenticationType": "Integrated",
+            "password": ""
+        }
+    ],
+    "notebook.cellToolbarLocation": {
+        "default": "right",
+        "jupyter-notebook": "left"
+    },
+    "python.linting.flake8Args": [
+        "--max-line-length=120",
+    ],
+    "remote.SSH.remotePlatform": {
+        "harrykwon.dev": "linux",
+        "127.0.0.1": "linux"
+    },
+    "diffEditor.ignoreTrimWhitespace": false,
+    "python.analysis.extraPaths": [
+        "C:\\Users\\harry\\Desktop\\oasis\\Qt"
+    ],
+    "editor.acceptSuggestionOnEnter": "smart",
+    "jupyter.askForKernelRestart": false,
+    "window.zoomLevel": -1,
+    "rust.unstable_features": true,
+    "terminal.integrated.enableMultiLinePasteWarning": false,
+}
