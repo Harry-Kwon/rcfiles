@@ -1,0 +1,9 @@
+[env]
+WINIT_X11_SCALE_FACTOR = "1.0"
+
+[window]
+decorations_theme_variant = "Dark"
+
+[font]
+size = 10.5
+normal = {family = "JetBrainsMonoNLNerdFont", style = "Regular"}
